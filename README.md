@@ -1,2 +1,2 @@
 # CouchDB_Scripts
-Script para la base de datos del proyecto Bases
+Scripts para la base de datos del proyecto Bases
