@@ -24,6 +24,7 @@ for name in meta:
                 db.save(doc)
             except cdb.http.ResourceConflict:
                 pass
+print('Metadatos cargados')
 
 for name in review:
     print('Cargando {} '.format(name))
